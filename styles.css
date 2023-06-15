@@ -5,8 +5,7 @@
     --cor-de-fundo: #00030C;
     --botao-verde-medio: #07a00f;
     --fonte-verde: #034e07;
-    --botao-rosa: #f529d6;
-
+    --botao-verdinho: #9cf599;
 }
 
 body {
@@ -77,7 +76,7 @@ body {
 .secundario__botao{
     display: inline-block;
     margin: 1em 5em;
-    background-color: var(--botao-rosa);
+    background-color: var(--botao-verdinho);
 }
 .secundario__imagem{
     width: 100%;
